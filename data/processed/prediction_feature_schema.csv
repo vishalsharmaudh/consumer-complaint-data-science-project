@@ -1,0 +1,263 @@
+feature,dtype
+received_year,int64
+received_month,int64
+received_dayofweek,int64
+received_day,int64
+received_quarter,int64
+received_hour,int64
+narrative_present,int64
+narrative_length,int64
+narrative_word_count,int64
+company_frequency,int64
+product_Checking or savings account,float64
+product_Credit card,float64
+product_Credit reporting or other personal consumer reports,float64
+product_Debt collection,float64
+product_Debt or credit management,float64
+"product_Money transfer, virtual currency, or money service",float64
+product_Mortgage,float64
+"product_Payday loan, title loan, personal loan, or advance loan",float64
+product_Prepaid card,float64
+product_Student loan,float64
+product_Vehicle loan or lease,float64
+sub_product_Auto debt,float64
+sub_product_Checking account,float64
+sub_product_Conventional home mortgage,float64
+sub_product_Credit card debt,float64
+sub_product_Credit repair services,float64
+sub_product_Credit reporting,float64
+sub_product_Debt settlement,float64
+sub_product_Domestic (US) money transfer,float64
+sub_product_FHA mortgage,float64
+sub_product_Federal student loan servicing,float64
+sub_product_General-purpose credit card or charge card,float64
+sub_product_General-purpose prepaid card,float64
+sub_product_Government benefit card,float64
+sub_product_Home equity loan or line of credit (HELOC),float64
+sub_product_I do not know,float64
+sub_product_Installment loan,float64
+sub_product_International money transfer,float64
+sub_product_Lease,float64
+sub_product_Loan,float64
+sub_product_Medical debt,float64
+sub_product_Mobile or digital wallet,float64
+"sub_product_Money order, traveler's check or cashier's check",float64
+sub_product_Other,float64
+sub_product_Other banking product or service,float64
+sub_product_Other debt,float64
+sub_product_Other personal consumer report,float64
+sub_product_Other type of mortgage,float64
+sub_product_Payday loan,float64
+sub_product_Payday loan debt,float64
+sub_product_Personal line of credit,float64
+sub_product_Private student loan,float64
+sub_product_Rental debt,float64
+sub_product_Savings account,float64
+sub_product_Store credit card,float64
+sub_product_Telecommunications debt,float64
+sub_product_Title loan,float64
+sub_product_VA mortgage,float64
+sub_product_Virtual currency,float64
+"issue_Advertising and marketing, including promotional offers",float64
+issue_Applying for a mortgage or refinancing an existing mortgage,float64
+issue_Attempts to collect debt not owed,float64
+issue_Charged fees or interest you didn't expect,float64
+issue_Charged upfront or unexpected fees,float64
+issue_Closing an account,float64
+issue_Closing on a mortgage,float64
+issue_Closing your account,float64
+issue_Communication tactics,float64
+issue_Confusing or misleading advertising or marketing,float64
+issue_Confusing or missing disclosures,float64
+issue_Credit monitoring or identity theft protection services,float64
+issue_Dealing with your lender or servicer,float64
+issue_Didn't provide services promised,float64
+issue_Electronic communications,float64
+issue_False statements or representation,float64
+issue_Fees or interest,float64
+issue_Fraud or scam,float64
+issue_Getting a credit card,float64
+issue_Getting a loan or lease,float64
+issue_Getting the loan,float64
+issue_Improper use of your report,float64
+issue_Incorrect information on your report,float64
+issue_Managing an account,float64
+issue_Managing the loan or lease,float64
+"issue_Managing, opening, or closing your mobile wallet account",float64
+issue_Money was not available when promised,float64
+issue_Opening an account,float64
+issue_Other,float64
+"issue_Other features, terms, or problems",float64
+issue_Other transaction problem,float64
+issue_Problem caused by your funds being low,float64
+issue_Problem getting a card or closing an account,float64
+issue_Problem when making payments,float64
+issue_Problem with a company's investigation into an existing problem,float64
+issue_Problem with a lender or other company charging your account,float64
+issue_Problem with a purchase or transfer,float64
+issue_Problem with a purchase shown on your statement,float64
+issue_Problem with additional add-on products or services,float64
+issue_Problem with customer service,float64
+issue_Problem with fraud alerts or security freezes,float64
+issue_Problem with the payoff process at the end of the loan,float64
+issue_Problems at the end of the loan or lease,float64
+issue_Repossession,float64
+issue_Struggling to pay mortgage,float64
+issue_Struggling to pay your bill,float64
+issue_Struggling to pay your loan,float64
+issue_Struggling to repay your loan,float64
+issue_Threatened to contact someone or share information improperly,float64
+issue_Took or threatened to take negative or legal action,float64
+issue_Trouble accessing funds in your mobile or digital wallet,float64
+issue_Trouble during payment process,float64
+issue_Trouble using the card,float64
+issue_Trouble using your card,float64
+issue_Unable to get your credit report or credit score,float64
+issue_Unauthorized transactions or other transaction problem,float64
+issue_Unauthorized withdrawals or charges,float64
+issue_Unexpected or other fees,float64
+issue_Written notification about debt,float64
+sub_issue_Account information incorrect,float64
+sub_issue_Account opened without my consent or knowledge,float64
+sub_issue_Account reinstatement or redemption after repossession,float64
+sub_issue_Account status incorrect,float64
+"sub_issue_An existing modification, forbearance plan, short sale, or other loss mitigation relief",float64
+sub_issue_Application denied,float64
+"sub_issue_Applying for or obtaining a modification, forbearance plan, short sale, or deed-in-lieu",float64
+sub_issue_Attempted to collect wrong amount,float64
+sub_issue_Banking errors,float64
+sub_issue_Billing problem,float64
+sub_issue_Can't close your account,float64
+sub_issue_Can't use card to make purchases,float64
+sub_issue_Card company isn't resolving a dispute about a purchase or transfer,float64
+sub_issue_Card opened without my consent or knowledge,float64
+sub_issue_Card was charged for something you did not purchase with the card,float64
+sub_issue_Cashing a check,float64
+sub_issue_Charged for a purchase or transfer you did not make with the card,float64
+sub_issue_Charged too much interest,float64
+sub_issue_Company closed your account,float64
+sub_issue_Confusing or misleading advertising about the credit card,float64
+sub_issue_Confusing or misleading advertising or marketing,float64
+sub_issue_Credit card company isn't resolving a dispute about a purchase on your statement,float64
+sub_issue_Credit card company won't work with you while you're going through financial hardship,float64
+sub_issue_Credit inquiries on your report that you don't recognize,float64
+sub_issue_Debt is not yours,float64
+sub_issue_Debt was already discharged in bankruptcy and is no longer owed,float64
+sub_issue_Debt was paid,float64
+sub_issue_Debt was result of identity theft,float64
+sub_issue_Denied request to lower payments,float64
+sub_issue_Deposits and withdrawals,float64
+sub_issue_Didn't receive advertised or promotional terms,float64
+sub_issue_Didn't receive enough information to verify debt,float64
+sub_issue_Didn't receive notice of right to dispute,float64
+sub_issue_Didn't receive terms that were advertised,float64
+sub_issue_Difficulty submitting a dispute or getting information about a dispute over the phone,float64
+"sub_issue_Escrow, taxes, or insurance",float64
+sub_issue_Foreclosure,float64
+sub_issue_Frequent or repeated calls,float64
+sub_issue_Frequent or repeated messages,float64
+sub_issue_Funds not handled or disbursed as instructed,float64
+sub_issue_Funds not received from closed account,float64
+"sub_issue_Impersonated attorney, law enforcement, or government official",float64
+sub_issue_Information belongs to someone else,float64
+sub_issue_Information is missing that should be on the report,float64
+sub_issue_Investigation took more than 30 days,float64
+sub_issue_Loan balance remaining after the vehicle is repossessed and sold,float64
+sub_issue_Loan opened without my consent or knowledge,float64
+sub_issue_Loan sold or transferred to another company,float64
+sub_issue_Money was taken from your account on the wrong day or for the wrong amount,float64
+sub_issue_Non-sufficient funds and associated fees,float64
+sub_issue_Not provided,float64
+sub_issue_Notice to repossess,float64
+sub_issue_Notification didn't disclose it was an attempt to collect a debt,float64
+sub_issue_Old information reappears or never goes away,float64
+sub_issue_Other,float64
+sub_issue_Other problem,float64
+sub_issue_Other problem getting your report or credit score,float64
+sub_issue_Overdrafts and overdraft fees,float64
+sub_issue_Payment process,float64
+sub_issue_Personal information incorrect,float64
+sub_issue_Problem accessing account,float64
+sub_issue_Problem during payment process,float64
+sub_issue_Problem making or receiving payments,float64
+sub_issue_Problem using a debit or ATM card,float64
+sub_issue_Problem with additional products or services purchased with the loan,float64
+sub_issue_Problem with customer service,float64
+sub_issue_Problem with fees,float64
+sub_issue_Problem with fees charged,float64
+"sub_issue_Problem with forgiveness, cancellation, or discharge",float64
+sub_issue_Problem with paying off the loan,float64
+sub_issue_Problem with personal statement of dispute,float64
+sub_issue_Problem with rewards from credit card,float64
+sub_issue_Public record information inaccurate,float64
+sub_issue_Received bad information about your loan,float64
+sub_issue_Reporting company used your report improperly,float64
+sub_issue_Sued you without properly notifying you of lawsuit,float64
+sub_issue_Talked to a third-party about your debt,float64
+sub_issue_Their investigation did not fix an error on your report,float64
+sub_issue_Threatened or suggested your credit would be damaged,float64
+sub_issue_Threatened to sue you for very old debt,float64
+sub_issue_Transaction was not authorized,float64
+sub_issue_Trouble using the card to spend money in a store or online,float64
+sub_issue_Trouble with how payments are being handled,float64
+"sub_issue_Trying to communicate with the company to fix an issue related to modification, forbearance, short sale, deed-in-lieu, bankruptcy, or foreclosure",float64
+sub_issue_Trying to communicate with the company to fix an issue while managing or servicing your loan,float64
+sub_issue_Unable to open an account,float64
+sub_issue_Unable to receive car title or other problem after the loan is paid off,float64
+sub_issue_Unexpected increase in interest rate,float64
+sub_issue_Was not notified of investigation status or results,float64
+"sub_issue_You told them to stop contacting you, but they keep trying",float64
+state_AK,float64
+state_AL,float64
+state_AR,float64
+state_AZ,float64
+state_CA,float64
+state_CO,float64
+state_CT,float64
+state_DC,float64
+state_DE,float64
+state_FL,float64
+state_GA,float64
+state_HI,float64
+state_IA,float64
+state_ID,float64
+state_IL,float64
+state_IN,float64
+state_KS,float64
+state_KY,float64
+state_LA,float64
+state_MA,float64
+state_MD,float64
+state_ME,float64
+state_MI,float64
+state_MN,float64
+state_MO,float64
+state_MS,float64
+state_MT,float64
+state_NC,float64
+state_NE,float64
+state_NH,float64
+state_NJ,float64
+state_NM,float64
+state_NV,float64
+state_NY,float64
+state_OH,float64
+state_OK,float64
+state_OR,float64
+state_Other,float64
+state_PA,float64
+state_PR,float64
+state_RI,float64
+state_SC,float64
+state_TN,float64
+state_TX,float64
+state_UT,float64
+state_Unknown,float64
+state_VA,float64
+state_WA,float64
+state_WI,float64
+state_WV,float64
+submitted_via_Phone,float64
+submitted_via_Postal mail,float64
+submitted_via_Referral,float64
+submitted_via_Web,float64
