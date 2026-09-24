@@ -1,3 +1,15 @@
+# Consumer Complaint Data Science Project
+
+> End-to-end Data Science project covering data cleaning, EDA, SQL analysis, feature engineering, machine learning, evaluation, and deployment.
+
+### 🚀 Live Demo
+
+**[👉 Open the Live Demo](https://consumer-complaint-data-science-project-ijgasgqz89ywhyesxx6huw.streamlit.app/)**
+
+### 💻 GitHub Repository
+
+**[👉 View the Source Code](https://github.com/vishalsharmaudh/consumer-complaint-data-science-project)**
+
 ## 🎯 Project Motivation
 
 The main motivation behind this project was to understand how consumer complaint data can be transformed from raw records into actionable insights and a machine learning prediction system.
