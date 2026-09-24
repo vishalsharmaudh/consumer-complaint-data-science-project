@@ -6,6 +6,12 @@ The project covers the complete workflow from raw data auditing and cleaning to 
 
 ---
 
+## 🚀 Live Demo
+
+Try the deployed application:
+
+[Open Consumer Complaint Predictor](https://consumer-complaint-data-science-project-ijgasgqz89ywhyesxx6huw.streamlit.app/)
+
 ## 📌 Project Overview
 
 Consumer complaint datasets contain valuable information about customer issues, financial products, companies, complaint channels, response outcomes, and response behavior.
