@@ -320,15 +320,6 @@ The prediction logic is separated from the Streamlit interface so that the prepr
 
 ---
 
-## 🌐 Live Demo
-
-The trained model is deployed as a Streamlit application:
-
-**Live Demo:**  
-https://consumer-complaint-data-science-project-ijgasgqz89ywhyesxx6huw.streamlit.app/
-
----
-
 ## 💡 Key Learning
 
 The most important learning from this project was that **model building should come after problem understanding**.
